@@ -1,0 +1,32 @@
+[
+  {
+    "error_key": "INIT_001",
+    "message": "Application failed to initialize",
+    "fix": "Try refreshing the page. If the problem persists, clear your browser cache and cookies, then refresh again. Ensure you have JavaScript enabled.",
+    "page": "Dashboard"
+  },
+  {
+    "error_key": "SEARCH_002",
+    "message": "Search returned no results",
+    "fix": "Try using different keywords or shorter search terms. The search is case-insensitive and supports partial matches. Check the 'Guided Mode' for search tips.",
+    "page": "Dashboard"
+  },
+  {
+    "error_key": "API_003",
+    "message": "Connection to backend failed",
+    "fix": "Ensure the backend server is running on port 8000. Check your network connection. If using a proxy, verify proxy settings are correct.",
+    "page": "Dashboard"
+  },
+  {
+    "error_key": "INPUT_004",
+    "message": "Invalid input provided",
+    "fix": "Check that all required fields are filled correctly. Ensure text doesn't exceed character limits. Try again with valid input.",
+    "page": "Admin"
+  },
+  {
+    "error_key": "DB_005",
+    "message": "Database operation failed",
+    "fix": "This may be a temporary issue. Try refreshing the page. If the error continues, restart the application server.",
+    "page": "Dashboard"
+  }
+]

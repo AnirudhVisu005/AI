@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How do I get started with this application?",
+    "answer": "Start by exploring the Dashboard to familiarize yourself with the interface. You can access your data through the menu on the left, and use the search bar to find specific information quickly.",
+    "tags": "getting-started,dashboard,basics",
+    "page": "Dashboard"
+  },
+  {
+    "question": "What should I do if I encounter an error?",
+    "answer": "Check the error message displayed on screen. The system provides specific error codes and suggested fixes. If the issue persists, try refreshing the page or clearing your browser cache. Contact support if the problem continues.",
+    "tags": "error,troubleshooting,help",
+    "page": "Dashboard"
+  },
+  {
+    "question": "How can I enable guided step-by-step mode?",
+    "answer": "Toggle the 'Guided Step-by-Step Mode' option in the sidebar before asking a question. This mode provides detailed instructions and walkthroughs for complex tasks.",
+    "tags": "guided,tutorial,settings,features",
+    "page": "Dashboard"
+  },
+  {
+    "question": "Is there offline support available?",
+    "answer": "Yes, this application is fully offline-capable. All data is stored locally, and the chatbot works without internet connectivity. Your information remains private on your device.",
+    "tags": "offline,privacy,features,data",
+    "page": "Settings"
+  },
+  {
+    "question": "How do I search for information?",
+    "answer": "Use the search bar at the top of any page to query the knowledge base. Results are ranked by relevance and page context. Try using keywords or specific phrases for best results.",
+    "tags": "search,find,query,features",
+    "page": "Dashboard"
+  },
+  {
+    "question": "Can I customize the chatbot responses?",
+    "answer": "Yes, administrators can update FAQs, error solutions, and manuals through the Admin Panel. Changes take effect immediately without requiring a system restart.",
+    "tags": "admin,customize,settings,configuration",
+    "page": "Admin"
+  }
+]

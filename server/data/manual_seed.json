@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Getting Started with the Dashboard",
+    "content": "1. Open the application in your browser. 2. Explore the main navigation menu on the left. 3. Click on 'Dashboard' to see an overview of your data. 4. Use the search bar to find specific information. 5. Toggle settings as needed in the sidebar.",
+    "tags": "tutorial,getting-started,dashboard",
+    "page": "Dashboard"
+  },
+  {
+    "title": "Using Guided Step-by-Step Mode",
+    "content": "Step 1: Locate the 'Guided Mode' toggle in the sidebar. Step 2: Enable it by clicking the toggle switch. Step 3: Ask your question in the chat interface. Step 4: Receive detailed step-by-step instructions tailored to your query. Step 5: Follow each step in sequence for optimal results.",
+    "tags": "tutorial,guided-mode,features",
+    "page": "Dashboard"
+  },
+  {
+    "title": "Searching the Knowledge Base",
+    "content": "To search effectively: 1. Use the search bar at the top. 2. Enter keywords related to your question. 3. Results appear ranked by relevance. 4. Click on any result for more details. 5. Refine your search if needed using different keywords.",
+    "tags": "tutorial,search,features",
+    "page": "Dashboard"
+  },
+  {
+    "title": "Administering the Chatbot",
+    "content": "For administrators: 1. Navigate to the Admin Panel. 2. Choose between FAQs, Errors, or Manuals tabs. 3. Click 'Add' to create new entries. 4. Click 'Edit' to modify existing entries. 5. Click 'Delete' to remove entries (with confirmation). Changes take effect immediately.",
+    "tags": "tutorial,admin,management",
+    "page": "Admin"
+  },
+  {
+    "title": "Understanding Error Messages",
+    "content": "When you see an error: 1. Note the error code (e.g., API_003). 2. Read the error message carefully. 3. Follow the suggested fix. 4. If the fix doesn't work, try alternative solutions in this manual. 5. Contact support with the error code if issues persist.",
+    "tags": "tutorial,error-handling,troubleshooting",
+    "page": "Dashboard"
+  }
+]
