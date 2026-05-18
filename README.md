@@ -229,6 +229,21 @@ uvicorn app.main:app --reload --port 8000
 
 Without an API key, the app uses pure local search (still great!).
 
+### Test Gemini API Safely (PowerShell)
+
+Use the helper script to avoid hardcoding your key in commands/history:
+
+```powershell
+$env:GEMINI_API_KEY="your_api_key_here"
+./scripts/gemini_request.ps1 -Prompt "Explain how AI works in a few words"
+```
+
+The script also accepts `GOOGLE_API_KEY` and supports model override:
+
+```powershell
+./scripts/gemini_request.ps1 -Model "gemini-flash-latest" -Prompt "Hello"
+```
+
 ### Customize Theme
 
 Edit `client/src/styles.css`:
